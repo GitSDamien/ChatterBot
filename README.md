@@ -1,6 +1,6 @@
-# flask-chatterbot
+# ChatterBot
 
-#### A web implementation of [ChatterBot](https://github.com/gunthercox/ChatterBot) using Flask.
+#### Une implémentation web de [ChatterBot](https://github.com/gunthercox/ChatterBot) utilisant Flask.
 
 ## Local Setup:
  1. Assurez-vous d'avoir installé Python, Flask, SQLAlchemy et ChatterBot (soit manuellement, soit en exécutant `pip install -r requirements.txt`).
