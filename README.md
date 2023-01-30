@@ -31,20 +31,14 @@ Un chatbot est un programme informatique conçu pour simuler une conversation av
 
 ## Quelles sont les grandes étapes à réaliser pour développer un tel projet ?
 
-1. Définition du but et des objectifs du chatbot
-  Assurez-vous que le but et les objectifs du chatbot soient clairement définis et en ligne avec les objectifs de l'entreprise.
-2. Recherche et analyse de l'audience cible
-  Connaître bien l'audience cible pour pouvoir personnaliser le chatbot en conséquence.
-3. Choix de la plateforme et du modèle de développement
-  Choisir une plateforme fiable et flexible qui répond aux exigences spécifiques du projet.
-4. Conception du scénario de conversation et des règles de traitement du langage naturel
-  Créer un scénario de conversation convaincant qui offre une expérience utilisateur cohérente et naturelle.
-5. Développement et tests du chatbot
-  Effectuer des tests exhaustifs pour éliminer les erreurs et les bugs avant la mise en production.
-6. Mise en production et surveillance en continu
-  Surveiller en continu les performances du chatbot et les commentaires des utilisateurs pour effectuer des améliorations continues.
-7. Mise à jour et amélioration continue
-  Maintenir la confidentialité et la protection des données des utilisateurs.
+1. **Définition du but et des objectifs du chatbot** : Assurez-vous que le but et les objectifs du chatbot soient clairement définis et en ligne avec les objectifs de l'entreprise.
+2. **Recherche et analyse de l'audience cible** : Connaître bien l'audience cible pour pouvoir personnaliser le chatbot en conséquence.
+3. **Choix de la plateforme et du modèle de développement** : Choisir une plateforme fiable et flexible qui répond aux exigences spécifiques du projet.
+4. **Conception du scénario de conversation et des règles de traitement du langage naturel** : Créer un scénario de conversation convaincant qui offre une expérience utilisateur cohérente et naturelle.
+5. **Développement et tests du chatbot** : Effectuer des tests exhaustifs pour éliminer les erreurs et les bugs avant la mise en production.
+6. **Mise en production et surveillance en continu** : Surveiller en continu les performances du chatbot et les commentaires des utilisateurs pour effectuer des améliorations continues.
+7. **Mise à jour et amélioration continue** : Maintenir la confidentialité et la protection des données des utilisateurs.
+
 
 ## Local Setup:
  1. Assurez-vous d'avoir installé Python, Flask, SQLAlchemy et ChatterBot (soit manuellement, soit en exécutant `pip install -r requirements.txt`).
